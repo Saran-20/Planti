@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  #bgim{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+  }
+  
+  .box {
+    margin-left: 650px;
+    margin-top: 240px;
+    padding: 5%;
+    height: 10%;
+    width: 30%;
+    background-color: rgba(161, 233, 183, 0.708);
+    border-radius: 12%;
+    font-size: large; 
+    color:rgb(0, 0, 0);
+    backdrop-filter: blur(16px);
+  }
+ .head{
+   margin-left: 100px;
+ }
+ .submit{
+    position: absolute;
+    height: 10%;
+    width: 20%;
+    color: black;
+    border-radius: 35px;
+    font-size: medium;
+    margin-left: 120px;
+    margin-top: 10px;
+ }
+
+ .usnm{
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 75px;
+ }
+
+ .eml{
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 118px;
+ }
+
+ .pswd{
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 85px;
+}
+
+ .cnfpsd{
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+
